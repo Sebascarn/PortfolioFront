@@ -1,0 +1,52 @@
+nav.navbar.navbar-expand-lg.bg-danger.navbar-dark {
+    background: #2d0145 !important;
+}
+
+.list-group-horizontal {
+    --bs-list-group-bg: #56024f00 !important;
+    --bs-list-group-border-color: #ffffff00 !important;
+    --bs-list-group-color: #ffffff !important;
+}
+
+.instagram:hover {
+color: #fa06ad;
+}
+
+.github:hover {
+    color: #000000;
+}
+
+.whatsapp:hover {
+    color: #05ec20;
+}
+
+.sesion:hover {
+    color: #059bec;
+}
+
+section.dashboard {
+margin-top: 6rem;
+}
+
+.form-control {
+    border: 1px solid #312d2d !important;
+}
+
+button.btn.btn-info {
+    margin-top: 0.5rem;
+    color: #000000;
+}
+
+div#v-pills-tab {
+    margin-top: 1rem;
+}
+
+section.about, 
+section.educacion,
+section.trabajos,
+section.experiencia,
+section.proyectos {
+    margin-top: 2rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
