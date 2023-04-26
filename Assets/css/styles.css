@@ -1,26 +1,25 @@
-nav.navbar.navbar-expand-lg.bg-danger.navbar-dark {
+/* Navbar*/
+nav.navbar.navbar-expand-lg.bg-dark.navbar-dark {
     background: #2d0145 !important;
 }
 
-.list-group-horizontal {
-    --bs-list-group-bg: #56024f00 !important;
-    --bs-list-group-border-color: #ffffff00 !important;
-    --bs-list-group-color: #ffffff !important;
+ul.navbar-nav.mx-5 {
+    --bs-nav-link-color: #fff;
 }
 
-.instagram:hover {
+a.nav-link.instagram:hover {
 color: #fa06ad;
 }
 
-.github:hover {
+a.nav-link.github:hover {
     color: #000000;
 }
 
-.whatsapp:hover {
+a.nav-link.whatsapp:hover {
     color: #05ec20;
 }
 
-.sesion:hover {
+a.nav-link.sesion:hover {
     color: #059bec;
 }
 
@@ -28,6 +27,7 @@ section.dashboard {
 margin-top: 6rem;
 }
 
+/* Dashboard*/
 .form-control {
     border: 1px solid #312d2d !important;
 }
